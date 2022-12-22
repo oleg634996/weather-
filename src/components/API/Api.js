@@ -9,4 +9,5 @@ function ForecastFetch(event) {
   return fetch;
 }
 
-export default ForecastFetch;
+export default ForecastFetch;  
+//
